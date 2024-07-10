@@ -1,11 +1,11 @@
-# Alert if critical value is triggered
+ #Alert if critical value is triggered
 
-# value = int(input('enter the value: '))
+ value = int(input('enter the value: '))
 
-# while value < 100 and value > 0 :
-#     value = int(input('enter the value: '))
-#     # print('drilling')
-# print('we stooped')
+ while value < 100 and value > 0 :
+     value = int(input('enter the value: '))
+     # print('drilling')
+ print('we stooped')
 username1 = "admin"
 pasword1 = "abcd"
 i = 0
